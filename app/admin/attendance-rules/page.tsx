@@ -7,6 +7,18 @@ import { User, Bell, LogOut, Settings } from "lucide-react"
 import { useRouter } from "next/navigation"
 import { AttendanceRules } from "@/components/attendance-rules"
 
+// ✅ Proper metadata (title only)
+export const metadata = {
+  title: "Attendance Rules | Admin Dashboard",
+}
+
+// ✅ Moved viewport and themeColor here
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+  themeColor: "#ffffff",
+}
+
 export default function AdminAttendanceRules() {
   const [user, setUser] = useState<any>(null)
   const router = useRouter()
