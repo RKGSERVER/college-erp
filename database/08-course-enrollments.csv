@@ -1,0 +1,11 @@
+enrollment_id,student_id,course_id,enrollment_date,grade,status,attendance_percentage,midterm_marks,final_marks,assignment_marks,total_marks
+1,1,1,2023-08-15,A,completed,95,85,90,88,88
+2,1,2,2024-01-15,B+,in_progress,88,78,0,82,80
+3,1,10,2023-08-15,A+,completed,98,92,95,90,92
+4,2,1,2024-08-15,,in_progress,85,75,0,78,77
+5,2,5,2024-08-15,,in_progress,90,80,0,85,82
+6,3,7,2022-08-15,A,completed,92,88,85,90,88
+7,3,8,2023-01-15,B+,completed,87,82,78,85,82
+8,4,1,2023-08-15,A-,completed,90,80,88,85,84
+9,4,2,2024-01-15,,in_progress,92,85,0,88,87
+10,5,9,2024-08-15,,in_progress,88,0,0,0,0

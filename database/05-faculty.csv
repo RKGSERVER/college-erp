@@ -1,0 +1,4 @@
+faculty_id,user_id,employee_number,department_id,designation,qualification,specialization,experience_years,salary,joining_date,office_room,research_interests,publications_count
+1,3,FAC001,1,Professor,Ph.D. Computer Science,"Artificial Intelligence, Machine Learning",15,120000,2010-07-01,A-301,"AI, ML, Data Science",45
+2,4,FAC002,2,Associate Professor,Ph.D. Electrical Engineering,"Power Systems, Renewable Energy",12,100000,2012-08-15,B-205,"Smart Grid, Solar Energy",32
+3,5,FAC003,3,Professor,Ph.D. Mechanical Engineering,"Thermal Engineering, Manufacturing",18,130000,2008-06-20,C-102,"Heat Transfer, CAD/CAM",58

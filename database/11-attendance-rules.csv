@@ -1,0 +1,6 @@
+rule_id,rule_name,department_id,course_type,minimum_percentage,grace_period_days,penalty_type,penalty_value,effective_from,effective_to,status,created_by
+1,General Attendance Rule,1,core,75,7,grade_reduction,5,2024-01-01,2024-12-31,active,1
+2,Elective Course Rule,1,elective,70,5,warning,0,2024-01-01,2024-12-31,active,1
+3,Lab Course Rule,1,lab,80,3,grade_reduction,10,2024-01-01,2024-12-31,active,1
+4,EEE Department Rule,2,core,75,7,grade_reduction,5,2024-01-01,2024-12-31,active,1
+5,MECH Department Rule,3,core,75,7,grade_reduction,5,2024-01-01,2024-12-31,active,1

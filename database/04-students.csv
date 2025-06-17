@@ -1,0 +1,6 @@
+student_id,user_id,student_number,department_id,year_of_study,semester,admission_date,graduation_date,cgpa,total_credits,academic_status,guardian_name,guardian_phone,guardian_email,hostel_room,transport_route
+1,6,STU2024001,1,2,4,2023-08-15,,8.5,45,active,Mr. Brown,+1234567801,brown.parent@email.com,A-201,Route 1
+2,7,STU2024002,2,1,2,2024-08-15,,7.8,22,active,Mrs. Wilson,+1234567803,wilson.parent@email.com,B-105,Route 2
+3,8,STU2024003,3,3,6,2022-08-15,,9.1,68,active,Mr. Taylor,+1234567805,taylor.parent@email.com,C-301,Route 1
+4,9,STU2024004,1,2,4,2023-08-15,,8.2,47,active,Mrs. Anderson,+1234567807,anderson.parent@email.com,A-205,Route 3
+5,10,STU2024005,4,1,2,2024-08-15,,7.5,20,active,Mr. Thomas,+1234567809,thomas.parent@email.com,D-102,Route 2

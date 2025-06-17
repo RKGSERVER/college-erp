@@ -1,0 +1,6 @@
+payment_id,student_id,fee_assignment_id,amount,payment_method,payment_gateway,transaction_id,payment_date,status,gateway_response,receipt_url,processed_by,notes
+1,1,1,50000,online,razorpay,pay_razorpay_001,2024-11-15,completed,success,/receipts/payment_1.pdf,1,Partial payment for semester 4
+2,2,2,84050,online,stripe,pi_stripe_001,2024-09-01,completed,success,/receipts/payment_2.pdf,1,Full payment with scholarship
+3,3,3,40000,cash,manual,CASH_001,2024-10-20,completed,success,/receipts/payment_3.pdf,12,Partial payment - cash
+4,4,4,95000,online,razorpay,pay_razorpay_002,2024-11-30,completed,success,/receipts/payment_4.pdf,1,Full payment with discount
+5,5,5,30000,online,stripe,pi_stripe_002,2024-09-15,completed,success,/receipts/payment_5.pdf,1,Partial payment

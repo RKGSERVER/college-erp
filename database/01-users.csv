@@ -1,0 +1,16 @@
+user_id,username,email,password_hash,role,status,created_at,updated_at,last_login
+1,admin001,admin@college.edu,$2b$10$hash1,admin,active,2024-01-01 00:00:00,2024-01-01 00:00:00,2024-12-06 13:13:24
+2,principal001,principal@college.edu,$2b$10$hash2,principal,active,2024-01-01 00:00:00,2024-01-01 00:00:00,2024-12-06 10:30:00
+3,faculty001,john.smith@college.edu,$2b$10$hash3,faculty,active,2024-01-01 00:00:00,2024-01-01 00:00:00,2024-12-06 09:15:00
+4,faculty002,sarah.johnson@college.edu,$2b$10$hash4,faculty,active,2024-01-01 00:00:00,2024-01-01 00:00:00,2024-12-06 08:45:00
+5,faculty003,mike.davis@college.edu,$2b$10$hash5,faculty,active,2024-01-01 00:00:00,2024-01-01 00:00:00,2024-12-05 16:20:00
+6,student001,alice.brown@student.college.edu,$2b$10$hash6,student,active,2024-01-01 00:00:00,2024-01-01 00:00:00,2024-12-06 12:30:00
+7,student002,bob.wilson@student.college.edu,$2b$10$hash7,student,active,2024-01-01 00:00:00,2024-01-01 00:00:00,2024-12-06 11:45:00
+8,student003,carol.taylor@student.college.edu,$2b$10$hash8,student,active,2024-01-01 00:00:00,2024-01-01 00:00:00,2024-12-06 10:15:00
+9,student004,david.anderson@student.college.edu,$2b$10$hash9,student,active,2024-01-01 00:00:00,2024-01-01 00:00:00,2024-12-06 09:30:00
+10,student005,emma.thomas@student.college.edu,$2b$10$hash10,student,active,2024-01-01 00:00:00,2024-01-01 00:00:00,2024-12-06 08:20:00
+11,employee001,hr.manager@college.edu,$2b$10$hash11,employee,active,2024-01-01 00:00:00,2024-01-01 00:00:00,2024-12-06 09:00:00
+12,employee002,finance.officer@college.edu,$2b$10$hash12,employee,active,2024-01-01 00:00:00,2024-01-01 00:00:00,2024-12-06 08:30:00
+13,employee003,librarian@college.edu,$2b$10$hash13,employee,active,2024-01-01 00:00:00,2024-01-01 00:00:00,2024-12-05 17:45:00
+14,employee004,lab.assistant@college.edu,$2b$10$hash14,employee,active,2024-01-01 00:00:00,2024-01-01 00:00:00,2024-12-06 07:30:00
+15,employee005,security.officer@college.edu,$2b$10$hash15,employee,active,2024-01-01 00:00:00,2024-01-01 00:00:00,2024-12-06 06:00:00

@@ -1,0 +1,11 @@
+course_id,course_code,course_name,department_id,credits,course_type,semester,year_level,description,prerequisites,syllabus_url,status
+1,CSE101,Programming Fundamentals,1,4,core,1,1,"Introduction to programming concepts using C language","None",/syllabus/cse101.pdf,active
+2,CSE201,Data Structures,1,4,core,3,2,"Study of linear and non-linear data structures","CSE101",/syllabus/cse201.pdf,active
+3,CSE301,Database Management Systems,1,3,core,5,3,"Relational database design and SQL","CSE201",/syllabus/cse301.pdf,active
+4,CSE401,Machine Learning,1,3,elective,7,4,"Introduction to ML algorithms and applications","CSE301, MATH201",/syllabus/cse401.pdf,active
+5,EEE101,Circuit Analysis,2,4,core,1,1,"Basic electrical circuit analysis and theorems","None",/syllabus/eee101.pdf,active
+6,EEE201,Digital Electronics,2,3,core,3,2,"Digital logic design and Boolean algebra","EEE101",/syllabus/eee201.pdf,active
+7,MECH101,Engineering Mechanics,3,4,core,1,1,"Statics and dynamics of engineering systems","None",/syllabus/mech101.pdf,active
+8,MECH201,Thermodynamics,3,3,core,3,2,"Laws of thermodynamics and heat engines","MECH101",/syllabus/mech201.pdf,active
+9,CIVIL101,Engineering Drawing,4,2,core,1,1,"Technical drawing and CAD fundamentals","None",/syllabus/civil101.pdf,active
+10,MATH101,Calculus I,9,4,core,1,1,"Differential and integral calculus","None",/syllabus/math101.pdf,active

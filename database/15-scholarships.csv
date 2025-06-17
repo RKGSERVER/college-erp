@@ -1,0 +1,6 @@
+scholarship_id,scholarship_name,scholarship_type,amount,percentage,eligibility_criteria,department_id,year_level,minimum_cgpa,income_limit,application_deadline,status,created_by,created_date
+1,Merit Scholarship,merit,25000,0,"Top 10% students in each department",1,2,8.5,0,2024-06-30,active,1,2024-01-01
+2,Need-based Scholarship,need_based,15000,0,"Family income below threshold",0,0,7.0,300000,2024-07-15,active,1,2024-01-01
+3,Sports Scholarship,sports,20000,0,"State/National level sports achievement",0,0,6.5,0,2024-05-31,active,1,2024-01-01
+4,Minority Scholarship,minority,18000,0,"Students from minority communities",0,0,7.0,400000,2024-08-15,active,1,2024-01-01
+5,Girl Child Scholarship,gender,12000,0,"Female students in engineering",0,0,7.5,500000,2024-06-15,active,1,2024-01-01

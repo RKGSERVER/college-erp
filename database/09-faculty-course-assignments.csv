@@ -1,0 +1,8 @@
+assignment_id,faculty_id,course_id,academic_year,semester,section,room_number,schedule_day,schedule_time,assignment_type,status
+1,1,1,2024,1,A,A-101,Monday,09:00-10:00,primary,active
+2,1,2,2024,1,A,A-101,Tuesday,10:00-11:00,primary,active
+3,1,4,2024,2,A,A-102,Wednesday,14:00-15:00,primary,active
+4,2,5,2024,1,A,B-201,Monday,11:00-12:00,primary,active
+5,2,6,2024,1,B,B-201,Thursday,09:00-10:00,primary,active
+6,3,7,2024,1,A,C-101,Tuesday,09:00-10:00,primary,active
+7,3,8,2024,1,A,C-101,Friday,10:00-11:00,primary,active

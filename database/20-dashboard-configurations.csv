@@ -1,0 +1,6 @@
+config_id,user_id,dashboard_layout,widgets,preferences,theme,last_updated,status
+1,1,"{""layout"": ""grid"", ""columns"": 3}","[""user_stats"", ""payment_overview"", ""system_health"", ""recent_activities""]","{""auto_refresh"": true, ""refresh_interval"": 30}",dark,2024-12-01 10:00:00,active
+2,2,"{""layout"": ""grid"", ""columns"": 2}","[""student_overview"", ""faculty_stats"", ""financial_summary"", ""announcements""]","{""auto_refresh"": true, ""refresh_interval"": 60}",light,2024-11-15 14:30:00,active
+3,3,"{""layout"": ""list"", ""columns"": 1}","[""my_courses"", ""attendance_summary"", ""upcoming_classes"", ""student_performance""]","{""auto_refresh"": false, ""notifications"": true}",light,2024-12-05 09:15:00,active
+4,6,"{""layout"": ""grid"", ""columns"": 2}","[""my_courses"", ""attendance"", ""payments"", ""notifications""]","{""auto_refresh"": true, ""refresh_interval"": 120}",dark,2024-12-06 08:45:00,active
+5,11,"{""layout"": ""grid"", ""columns"": 3}","[""employee_stats"", ""leave_balance"", ""payroll"", ""announcements""]","{""auto_refresh"": true, ""refresh_interval"": 45}",light,2024-11-20 16:20:00,active

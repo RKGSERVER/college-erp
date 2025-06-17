@@ -1,0 +1,16 @@
+profile_id,user_id,first_name,last_name,date_of_birth,gender,phone,address,emergency_contact_name,emergency_contact_phone,profile_picture_url,created_at,updated_at
+1,1,System,Administrator,1980-01-01,Male,+1234567890,"123 Admin St, College City, State 12345",Emergency Admin,+1234567891,/images/profiles/admin001.jpg,2024-01-01 00:00:00,2024-01-01 00:00:00
+2,2,Dr. Robert,Johnson,1970-05-15,Male,+1234567892,"456 Principal Ave, College City, State 12345",Mrs. Johnson,+1234567893,/images/profiles/principal001.jpg,2024-01-01 00:00:00,2024-01-01 00:00:00
+3,3,Dr. John,Smith,1975-03-20,Male,+1234567894,"789 Faculty Rd, College City, State 12345",Mrs. Smith,+1234567895,/images/profiles/faculty001.jpg,2024-01-01 00:00:00,2024-01-01 00:00:00
+4,4,Dr. Sarah,Johnson,1978-07-12,Female,+1234567896,"321 Faculty St, College City, State 12345",Mr. Johnson,+1234567897,/images/profiles/faculty002.jpg,2024-01-01 00:00:00,2024-01-01 00:00:00
+5,5,Prof. Mike,Davis,1972-11-08,Male,+1234567898,"654 Faculty Ave, College City, State 12345",Mrs. Davis,+1234567899,/images/profiles/faculty003.jpg,2024-01-01 00:00:00,2024-01-01 00:00:00
+6,6,Alice,Brown,2002-09-15,Female,+1234567800,"987 Student Dorm A, College City, State 12345",Mr. Brown,+1234567801,/images/profiles/student001.jpg,2024-01-01 00:00:00,2024-01-01 00:00:00
+7,7,Bob,Wilson,2001-12-03,Male,+1234567802,"876 Student Dorm B, College City, State 12345",Mrs. Wilson,+1234567803,/images/profiles/student002.jpg,2024-01-01 00:00:00,2024-01-01 00:00:00
+8,8,Carol,Taylor,2002-04-22,Female,+1234567804,"765 Student Dorm C, College City, State 12345",Mr. Taylor,+1234567805,/images/profiles/student003.jpg,2024-01-01 00:00:00,2024-01-01 00:00:00
+9,9,David,Anderson,2001-08-17,Male,+1234567806,"543 Student Dorm D, College City, State 12345",Mrs. Anderson,+1234567807,/images/profiles/student004.jpg,2024-01-01 00:00:00,2024-01-01 00:00:00
+10,10,Emma,Thomas,2002-01-30,Female,+1234567808,"432 Student Dorm E, College City, State 12345",Mr. Thomas,+1234567809,/images/profiles/student005.jpg,2024-01-01 00:00:00,2024-01-01 00:00:00
+11,11,Jennifer,Martinez,1985-06-25,Female,+1234567810,"210 Staff Quarter A, College City, State 12345",Mr. Martinez,+1234567811,/images/profiles/employee001.jpg,2024-01-01 00:00:00,2024-01-01 00:00:00
+12,12,Michael,Garcia,1982-10-14,Male,+1234567812,"109 Staff Quarter B, College City, State 12345",Mrs. Garcia,+1234567813,/images/profiles/employee002.jpg,2024-01-01 00:00:00,2024-01-01 00:00:00
+13,13,Lisa,Rodriguez,1987-02-28,Female,+1234567814,"098 Staff Quarter C, College City, State 12345",Mr. Rodriguez,+1234567815,/images/profiles/employee003.jpg,2024-01-01 00:00:00,2024-01-01 00:00:00
+14,14,James,Lee,1990-12-05,Male,+1234567816,"087 Staff Quarter D, College City, State 12345",Mrs. Lee,+1234567817,/images/profiles/employee004.jpg,2024-01-01 00:00:00,2024-01-01 00:00:00
+15,15,Patricia,White,1988-09-18,Female,+1234567818,"076 Staff Quarter E, College City, State 12345",Mr. White,+1234567819,/images/profiles/employee005.jpg,2024-01-01 00:00:00,2024-01-01 00:00:00

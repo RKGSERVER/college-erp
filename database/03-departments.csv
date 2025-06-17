@@ -1,0 +1,11 @@
+department_id,department_name,department_code,head_of_department_id,description,budget,location,phone,email,established_date,status
+1,Computer Science Engineering,CSE,3,"Department of Computer Science and Engineering focusing on software development, algorithms, and emerging technologies",5000000,Block A - Floor 3,+1234567820,cse@college.edu,1995-08-15,active
+2,Electrical Engineering,EEE,4,"Department of Electrical and Electronics Engineering specializing in power systems, electronics, and communication",4500000,Block B - Floor 2,+1234567821,eee@college.edu,1990-06-20,active
+3,Mechanical Engineering,MECH,5,"Department of Mechanical Engineering covering thermodynamics, manufacturing, and automotive engineering",4800000,Block C - Floor 1,+1234567822,mech@college.edu,1988-03-10,active
+4,Civil Engineering,CIVIL,3,"Department of Civil Engineering focusing on construction, structural design, and infrastructure development",4200000,Block D - Floor 2,+1234567823,civil@college.edu,1985-01-25,active
+5,Information Technology,IT,4,"Department of Information Technology specializing in network systems, cybersecurity, and data management",3800000,Block A - Floor 2,+1234567824,it@college.edu,2000-09-12,active
+6,Electronics and Communication,ECE,5,"Department of Electronics and Communication Engineering focusing on signal processing and telecommunications",4100000,Block B - Floor 3,+1234567825,ece@college.edu,1992-11-08,active
+7,Chemical Engineering,CHEM,3,"Department of Chemical Engineering covering process engineering and materials science",3900000,Block E - Floor 1,+1234567826,chem@college.edu,1998-04-18,active
+8,Biotechnology,BT,4,"Department of Biotechnology focusing on genetic engineering and pharmaceutical applications",3500000,Block F - Floor 2,+1234567827,bt@college.edu,2005-07-22,active
+9,Mathematics,MATH,5,"Department of Mathematics providing foundational mathematical education and research",2800000,Block G - Floor 1,+1234567828,math@college.edu,1980-02-14,active
+10,Physics,PHY,3,"Department of Physics covering theoretical and applied physics research",3200000,Block G - Floor 2,+1234567829,physics@college.edu,1982-05-30,active

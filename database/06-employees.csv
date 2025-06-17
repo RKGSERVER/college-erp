@@ -1,0 +1,6 @@
+employee_id,user_id,employee_number,department_id,designation,job_category,salary,joining_date,office_location,supervisor_id,shift_timing,employment_type
+1,11,EMP001,1,HR Manager,Administrative,75000,2015-03-10,Admin Block - 201,2,09:00-17:00,full_time
+2,12,EMP002,1,Finance Officer,Administrative,70000,2016-05-22,Admin Block - 105,2,09:00-17:00,full_time
+3,13,EMP003,1,Librarian,Academic Support,55000,2018-09-12,Library - Main Desk,2,08:00-16:00,full_time
+4,14,EMP004,1,Lab Assistant,Technical,45000,2019-01-15,Block A - Lab 1,3,09:00-17:00,full_time
+5,15,EMP005,1,Security Officer,Support,40000,2020-11-08,Main Gate,11,22:00-06:00,full_time

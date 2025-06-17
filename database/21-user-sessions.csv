@@ -1,0 +1,6 @@
+session_id,user_id,session_token,ip_address,user_agent,login_time,last_activity,expires_at,status,device_info
+sess_001,1,jwt_token_hash_001,192.168.1.100,Mozilla/5.0 (Windows NT 10.0; Win64; x64),2024-12-06 08:00:00,2024-12-06 13:13:24,2024-12-07 08:00:00,active,"{""device"": ""Desktop"", ""os"": ""Windows 10"", ""browser"": ""Chrome""}"
+sess_002,3,jwt_token_hash_002,192.168.1.101,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7),2024-12-06 09:00:00,2024-12-06 12:30:00,2024-12-07 09:00:00,active,"{""device"": ""Desktop"", ""os"": ""macOS"", ""browser"": ""Safari""}"
+sess_003,2,jwt_token_hash_003,192.168.1.102,Mozilla/5.0 (X11; Linux x86_64),2024-12-06 07:30:00,2024-12-06 11:45:00,2024-12-07 07:30:00,active,"{""device"": ""Desktop"", ""os"": ""Linux"", ""browser"": ""Firefox""}"
+sess_004,6,jwt_token_hash_004,192.168.1.105,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X),2024-12-06 10:15:00,2024-12-06 12:30:00,2024-12-07 10:15:00,active,"{""device"": ""Mobile"", ""os"": ""iOS"", ""browser"": ""Safari""}"
+sess_005,11,jwt_token_hash_005,192.168.1.110,Mozilla/5.0 (Android 13; Mobile),2024-12-06 08:45:00,2024-12-06 11:20:00,2024-12-07 08:45:00,active,"{""device"": ""Mobile"", ""os"": ""Android"", ""browser"": ""Chrome""}"

@@ -1,0 +1,6 @@
+notification_id,user_id,title,message,type,priority,status,created_at,read_at,acknowledged_at,expires_at,metadata,channel
+1,6,"Fee Payment Due","Your semester fee payment of ₹50,000 is due on 2024-12-31",payment,high,unread,2024-12-01 09:00:00,,,2024-12-31 23:59:59,"{""amount"": 50000, ""due_date"": ""2024-12-31""}",in_app
+2,7,"Scholarship Approved","Congratulations! Your need-based scholarship of ₹15,000 has been approved",scholarship,medium,read,2024-11-15 10:30:00,2024-11-15 11:00:00,2024-11-15 11:00:00,,"{""amount"": 15000, ""type"": ""need_based""}",email
+3,8,"Attendance Warning","Your attendance in CSE301 is below 75%. Current: 68%",attendance,high,unread,2024-12-05 14:00:00,,,2024-12-20 23:59:59,"{""course"": ""CSE301"", ""percentage"": 68}",sms
+4,1,"System Maintenance","Scheduled system maintenance on 2024-12-07 from 2:00 AM to 4:00 AM",system,low,read,2024-12-05 16:00:00,2024-12-05 16:30:00,,,"{""start_time"": ""2024-12-07 02:00:00"", ""end_time"": ""2024-12-07 04:00:00""}",push
+5,3,"New Course Assignment","You have been assigned to teach CSE401 - Machine Learning for Spring 2025",academic,medium,unread,2024-12-06 08:00:00,,,2024-12-15 23:59:59,"{""course"": ""CSE401"", ""semester"": ""Spring 2025""}",in_app

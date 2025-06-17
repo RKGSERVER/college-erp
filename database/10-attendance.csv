@@ -1,0 +1,11 @@
+attendance_id,student_id,course_id,date,status,marked_by,marked_at,session_type,notes
+1,1,1,2024-12-01,present,1,2024-12-01 09:15:00,lecture,
+2,1,2,2024-12-01,present,1,2024-12-01 10:15:00,lecture,
+3,2,1,2024-12-01,absent,1,2024-12-01 09:15:00,lecture,Medical leave
+4,2,5,2024-12-01,present,2,2024-12-01 11:15:00,lecture,
+5,3,7,2024-12-01,present,3,2024-12-01 09:15:00,lecture,
+6,3,8,2024-12-01,late,3,2024-12-01 10:20:00,lecture,Arrived 20 minutes late
+7,4,1,2024-12-01,present,1,2024-12-01 09:15:00,lecture,
+8,4,2,2024-12-01,present,1,2024-12-01 10:15:00,lecture,
+9,5,9,2024-12-01,present,3,2024-12-01 09:15:00,lecture,
+10,1,1,2024-12-02,present,1,2024-12-02 09:15:00,lecture,

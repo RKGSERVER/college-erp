@@ -1,0 +1,6 @@
+announcement_id,title,content,type,priority,target_audience,department_id,created_by,created_at,published_at,expires_at,status,attachment_url
+1,Winter Break Notice,"College will remain closed from December 20, 2024 to January 5, 2025 for winter break.",general,medium,all,,1,2024-12-01 10:00:00,2024-12-01 10:00:00,2025-01-05 23:59:59,published,
+2,Fee Payment Deadline,"Reminder: Semester fee payment deadline is December 31, 2024. Late fees will be applicable after the deadline.",payment,high,students,,1,2024-12-01 11:00:00,2024-12-01 11:00:00,2024-12-31 23:59:59,published,/announcements/fee_notice.pdf
+3,New Lab Equipment,"New computer lab with latest hardware has been set up in Block A, Floor 2.",facility,low,students,1,3,2024-11-25 14:00:00,2024-11-25 14:00:00,2024-12-25 23:59:59,published,/announcements/lab_images.pdf
+4,Faculty Meeting,"Monthly faculty meeting scheduled for December 10, 2024 at 2:00 PM in Conference Hall.",academic,medium,faculty,,2,2024-12-05 09:00:00,2024-12-05 09:00:00,2024-12-10 23:59:59,published,
+5,Sports Day Event,"Annual sports day will be conducted on December 15, 2024. Registration open till December 12.",event,medium,all,,1,2024-12-02 16:00:00,2024-12-02 16:00:00,2024-12-15 23:59:59,published,/announcements/sports_day.pdf

@@ -1,0 +1,6 @@
+application_id,scholarship_id,student_id,application_date,status,documents_submitted,verification_status,approved_amount,approved_by,approved_date,disbursement_date,academic_year,remarks
+1,1,1,2024-05-15,approved,true,verified,25000,2,2024-06-01,2024-07-01,2024,Excellent academic performance
+2,2,2,2024-06-01,approved,true,verified,15000,2,2024-06-15,2024-07-15,2024,Family income verified
+3,5,3,2024-05-20,approved,true,verified,12000,2,2024-06-10,2024-07-10,2024,Promoting women in engineering
+4,3,4,2024-05-10,pending,true,pending,0,,,2024,Sports certificate verification pending
+5,4,5,2024-06-20,rejected,false,rejected,0,2,2024-07-01,,2024,Incomplete documentation

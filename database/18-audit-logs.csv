@@ -1,0 +1,6 @@
+log_id,user_id,action,table_name,record_id,old_values,new_values,ip_address,user_agent,timestamp,session_id,status
+1,1,UPDATE,students,1,"{""cgpa"": 8.2}","{""cgpa"": 8.5}",192.168.1.100,Mozilla/5.0...,2024-12-01 10:30:00,sess_001,success
+2,3,INSERT,course_enrollments,10,null,"{""student_id"": 5, ""course_id"": 9}",192.168.1.101,Mozilla/5.0...,2024-12-01 11:00:00,sess_002,success
+3,2,UPDATE,fee_structures,1,"{""tuition_fee"": 48000}","{""tuition_fee"": 50000}",192.168.1.102,Mozilla/5.0...,2024-12-01 14:15:00,sess_003,success
+4,1,DELETE,notifications,15,"{""title"": ""Old Notification""}",null,192.168.1.100,Mozilla/5.0...,2024-12-01 15:45:00,sess_001,success
+5,6,UPDATE,user_profiles,6,"{""phone"": ""+1234567800""}","{""phone"": ""+1234567830""}",192.168.1.105,Mozilla/5.0...,2024-12-02 09:20:00,sess_005,success
