@@ -2,6 +2,9 @@ import { type NextRequest, NextResponse } from "next/server"
 import { userQueries, auditQueries } from "@/lib/database"
 import { verifyToken } from "@/lib/auth"
 
+// ✅ Add this line to force dynamic rendering
+export const dynamic = "force-dynamic";
+
 export async function GET(request: NextRequest) {
   try {
     const token = request.headers.get("authorization")?.replace("Bearer ", "")
@@ -96,6 +99,6 @@ export async function PUT(request: NextRequest) {
     })
   } catch (error) {
     console.error("Update profile error:", error)
-    return NextResponse.json({ error: "Internal server error" }, { status: 500 })
-  }
+    return NextResponse.json({ error: "Internal server error" }, { status: 500 })
+  }
 }
